@@ -4,6 +4,7 @@
 <img align='right' src="https://moimger.moudio.top/img/me.jpg" width="230">
 <a href="https://blog.moudio.top">Hexo博客</a>
 <a href="https://www.moudio.top">个人主页</a>
+<a href="https://music.moudio.top">mmPlayer 在线音乐播放器</a>
 
 **📊 Stats:**
 
