@@ -1,7 +1,6 @@
 # Hi there 👋 I'm momo54181 (:octocat:)
 我是一个目前在读初中的中学生.
-## 目前在经营的项目
-<img align='right' src="[[[https://moimger.moudio.top/img/me.jpg](https://p0.meituan.net/csc/e1fb35b817ad1d0826b1e5221eef18d6112850.webp)](https://p0.meituan.net/csc/e1fb35b817ad1d0826b1e5221eef18d6112850.webp)](https://p0.meituan.net/csc/e1fb35b817ad1d0826b1e5221eef18d6112850.webp)" width="230">
+## 目前在经营的项目<img align='right' src="https://p0.meituan.net/csc/e1fb35b817ad1d0826b1e5221eef18d6112850.webp" width="230">
 <a href="https://blog.moudio.top">Hexo博客</a>
 <a href="https://www.moudio.top">个人主页</a>
 <a href="https://music.moudio.top">mmPlayer 在线音乐播放器</a>
